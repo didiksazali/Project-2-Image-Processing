@@ -1,0 +1,38 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 475
+  ClientWidth = 769
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 208
+    Top = 72
+    Width = 352
+    Height = 113
+  end
+  object StringGrid1: TStringGrid
+    Left = 208
+    Top = 248
+    Width = 352
+    Height = 120
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 344
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Pilih Gambar'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+end

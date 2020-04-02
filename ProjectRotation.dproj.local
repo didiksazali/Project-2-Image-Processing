@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/06 10.10.39.014.pas,C:\Users\Didik Sazali\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Didik Sazali\Documents\RAD Studio\Projects\U_Rotasi.pas</Transaction>
+    <Transaction>2017/06/06 10.10.39.014.dfm,C:\Users\Didik Sazali\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Didik Sazali\Documents\RAD Studio\Projects\U_Rotasi.dfm</Transaction>
+    <Transaction>2017/06/06 10.10.47.404.dproj,C:\Users\Didik Sazali\Documents\RAD Studio\Projects\Project3.dproj=C:\Users\Didik Sazali\Documents\RAD Studio\Projects\ProjectRotation.dproj</Transaction>
+    <Transaction>2017/06/06 10.12.44.408.pas,C:\Users\Didik Sazali\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Didik Sazali\Documents\RAD Studio\Projects\U_TampilCitraRotasi.pas</Transaction>
+    <Transaction>2017/06/06 10.12.44.408.dfm,C:\Users\Didik Sazali\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Didik Sazali\Documents\RAD Studio\Projects\U_TampilCitraRotasi.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

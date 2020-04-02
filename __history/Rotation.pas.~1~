@@ -1,0 +1,24 @@
+unit Rotation;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs;
+
+type
+  TU_Rotasi = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  U_Rotasi: TU_Rotasi;
+
+implementation
+
+{$R *.dfm}
+
+end.
